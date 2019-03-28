@@ -149,7 +149,7 @@ header { padding-bottom: 100px; }
     height: 180px;
     top: -50%;
     left: -70px;
-    background: url("../assets/images/memphis-pattern.png") center center no-repeat;
+    background: url("../assets/images/memphis.svg") center center no-repeat;
     background-size: cover;
 }
 
@@ -182,7 +182,7 @@ header { padding-bottom: 100px; }
     height: 600px;
     top: 50%;
     transform: translateY(-50%);
-    background: url("../assets/images/memphis-pattern.png") center center no-repeat;
+    background: url("../assets/images/memphis.svg") center center no-repeat;
     background-size: cover;
     opacity: .4;
 }
